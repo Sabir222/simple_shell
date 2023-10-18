@@ -1,0 +1,4 @@
+# shell project
+
+
+some readme
